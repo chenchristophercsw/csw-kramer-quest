@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=playCombat\ monsterCombat\ stCombat\ numCombat\ fleeCombat
+comment0.target=void\ storeCombat(Player,\ Monster,\ Stage,\ int,\ boolean)
+comment1.params=inv\ p\ s\ n
+comment1.target=void\ displayWindow(java.util.ArrayList,\ Player,\ Stage,\ int)
+comment2.params=evt
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=
+comment3.target=Item\ randomItem()
+comment4.params=
+comment4.target=void\ setInvTxt()
+comment4.text=\r\n\ takes\ array\ of\ items\ and\ returns\ info\ about\ the\r\n\ items\ as\ a\ String\ so\ it\ can\ be\ displayed.\r\n\ Each\ element\ is\ a\ line\ of\ text.\r\n
+comment5.params=text\ frameWidth\ g
+comment5.target=int\ centerStringX(java.lang.String,\ int,\ java.awt.Graphics)
+comment5.text=\r\n\ centerStringX\ finds\ the\ x\ coordinate\ needed\ to\ center\ a\ String\ in\ the\ window.\r\n
+numComments=6

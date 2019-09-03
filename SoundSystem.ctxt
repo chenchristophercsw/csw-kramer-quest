@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ playLoop1()
+comment0.text=\r\n\ Play\ a\ given\ audio\ file.\r\n\ @param\ audioFilePath\ Path\ of\ the\ file\ to\ be\ played.\r\n
+comment1.params=
+comment1.target=void\ playLoop2()
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=boolean\ isPlayingMenuMusic()
+comment4.params=
+comment4.target=void\ stopThread()
+comment5.params=event
+comment5.target=void\ update(javax.sound.sampled.LineEvent)
+comment5.text=\r\n\ \ Marks\ the\ beginning\ and\ ending\ of\ the\ audio\ clip.\r\n
+comment6.params=filePath
+comment6.target=void\ setPath(java.lang.String)
+comment7.params=filePath
+comment7.target=void\ setPath2(java.lang.String)
+numComments=8
